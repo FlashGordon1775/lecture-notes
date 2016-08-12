@@ -1,0 +1,49 @@
+.header {
+    padding: 0px 0px 10px 0px;
+    background: peachpuff;
+}
+
+.nav-bar {
+    padding: 15px 0px 0px 320px;
+}
+
+.nav-bar li :hover {
+    color: aliceblue;
+}
+
+.nav-bar li {
+    text-align: center;
+    display: inline;
+    padding: 5px 60px;
+    font-size: 25px;
+}
+
+body, html {
+    padding: 0;
+    margin: 20;
+}
+
+.placehold1 {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media queries go below other CSS*/
+@media (min-width:600px) {
+    body {
+        background: linen;
+    }
+}
