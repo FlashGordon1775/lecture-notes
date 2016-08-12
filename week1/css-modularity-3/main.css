@@ -27,8 +27,8 @@ body, html {
     width: 100%;
     min-height: 1500px;
     height: 100%;
-    margin: 20;
     background: linen;
+    margin: 0;
 }
 
 img {
