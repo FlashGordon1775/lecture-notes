@@ -221,4 +221,6 @@ input[type="submit"]{
     margin: 0px 0px 0px 50px;
 }
 
-
+.time{
+    vertical-align: bottom;
+}
