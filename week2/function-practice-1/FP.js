@@ -47,8 +47,8 @@ function toArray(num1, num2, num3){
 toArray(1,2,3);
 
 ///////////////////////////////////////
-
-function startsWithA(word){
+//This function is not working!!!!!!!!!!!!
+/*function startsWithA(word){
     if(word[0] == "A" || "a"){
         return (true);
     }else{
@@ -56,6 +56,6 @@ function startsWithA(word){
     }
 }
 
-startsWithA();
+startsWithA();*/ 
 
 //////////////////////////////////////////
